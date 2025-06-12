@@ -46,7 +46,7 @@ This project analyzes the association between HIV status and adverse cardiovascu
 
 ### 🔄 Multiple Imputation
 - Subsampled ~10,000 participants (HIV+ and HIV-)
-- Imputed missing values for relevant predictors
+- Imputed missing values using MICE for relevant predictors
 - Pooled estimates from imputed datasets
 
 ## 📉 Key Outcomes
